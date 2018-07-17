@@ -1,0 +1,13 @@
+.weui-vcode-btn{
+  color: #6495ED;
+}
+.weui-btn{
+  color: #6495ED
+}
+.weui-label{
+  font-weight: bold;
+  color:grey;
+}
+.ordtext{
+  color:#6495ED;
+}
